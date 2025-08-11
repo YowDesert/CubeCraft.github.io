@@ -1,2 +1,2 @@
-# CubeCraft-.github.io
+# CubeCraft.github.io
 解魔術方塊
